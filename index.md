@@ -12,3 +12,7 @@ Looking at all header sizes
 ``` c++
 int myInt = 10;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

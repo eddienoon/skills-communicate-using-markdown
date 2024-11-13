@@ -6,3 +6,5 @@
 ###### Header 6
 
 Looking at all header sizes
+
+![Image of Yaktocat :)](https://octodex.github.com/images/yaktocat.png)
